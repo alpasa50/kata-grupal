@@ -1,6 +1,8 @@
-module Lib
-    ( someFunc
-    ) where
+import qualified Data.Set as Set   
 
-someFunc :: IO ()
-someFunc = putStrLn "someFunc"
+text1 = "Hola mundo"   
+   
+
+main = do   
+   print(text1) 
+ 
