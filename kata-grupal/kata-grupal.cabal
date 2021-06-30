@@ -25,7 +25,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Anagram
   other-modules:
       Paths_kata_grupal
   hs-source-dirs:
